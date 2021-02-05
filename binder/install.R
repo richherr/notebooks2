@@ -1,3 +1,4 @@
+install.packages('glue', repos="https://cloud.r-project.org/")
 install.packages('R6', repos="https://cloud.r-project.org/")
 install.packages('digest', repos="https://cloud.r-project.org/")
 install.packages('magrittr', repos="https://cloud.r-project.org/")
