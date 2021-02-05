@@ -1,3 +1,6 @@
+install.packages('vctrs', repos="https://cloud.r-project.org/")
+install.packages('lifecycle', repos="https://cloud.r-project.org/")
+install.packages('assertthat', repos="https://cloud.r-project.org/")
 install.packages('evaluate', repos="https://cloud.r-project.org/")
 install.packages('glue', repos="https://cloud.r-project.org/")
 install.packages('R6', repos="https://cloud.r-project.org/")
