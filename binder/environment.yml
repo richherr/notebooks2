@@ -3,3 +3,5 @@ dependencies:
   - numpy
   - pandas
   - rpy2
+  - tensorflow
+  - keras
