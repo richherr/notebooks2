@@ -24,3 +24,6 @@ install.packages("here", repos="https://cloud.r-project.org/")
 install.packages("ctv", repos="https://cloud.r-project.org/")
 install.packages("evtree", repos="https://cloud.r-project.org/")
 install.packages("Rcpp", repos="https://cloud.r-project.org/")
+ctv::install.views("Psychometrics")
+ctv::install.views("MachineLearning")
+
