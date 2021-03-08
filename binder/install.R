@@ -27,5 +27,11 @@ install.packages("Rcpp", repos="https://cloud.r-project.org/")
 install.packages("psych", repos="https://cloud.r-project.org/")
 install.packages("lavaan", repos="https://cloud.r-project.org/")
 install.packages("semTools", repos="https://cloud.r-project.org/")
+install.packages("remotes", repos="https://cloud.r-project.org/")
+install.packages("devtools", repos="https://cloud.r-project.org/")
+remotes::install_github("https://github.com/LamaTe/mlr3shiny.git")
 ctv::install.views("MachineLearning", repos="https://cloud.r-project.org/")
 ctv::install.views("Optimization", repos="https://cloud.r-project.org/")
+ctv::install.views("WebTechnologies", repos="https://cloud.r-project.org/")
+
+
